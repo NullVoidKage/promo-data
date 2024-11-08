@@ -1,1 +1,114 @@
 
+{
+  "bank_promos": [
+    {
+      "title": "Maya Save Up to 6% p.a.",
+      "bank": "Maya Bank",
+      "description": "Get up to 6% interest rate p.a. on your savings when you maintain at least ₱100,000",
+      "validUntil": "Dec 31, 2024",
+      "iconData": "savings"
+    },
+    {
+      "title": "Seabank 5.5% Interest",
+      "bank": "Seabank Philippines",
+      "description": "Earn 5.5% p.a. interest rate daily with no minimum balance required",
+      "validUntil": "Ongoing",
+      "iconData": "water"
+    },
+    {
+      "title": "Tonik Time Deposit",
+      "bank": "Tonik Digital Bank",
+      "description": "Up to 5.5% p.a. for 6-month time deposits with minimum placement of ₱5,000",
+      "validUntil": "Dec 31, 2024",
+      "iconData": "account_balance"
+    },
+    {
+      "title": "Free InstaPay via GCash",
+      "bank": "GCash",
+      "description": "Send money for free via InstaPay to any bank account. Limited to 3 free transfers per month",
+      "validUntil": "Dec 31, 2024",
+      "iconData": "send"
+    },
+    {
+      "title": "ING Pay Free Transfers",
+      "bank": "ING Philippines",
+      "description": "Unlimited free PESONet and InstaPay transfers to any bank",
+      "validUntil": "Ongoing",
+      "iconData": "monetization_on"
+    }
+  ],
+  "credit_card_promos": [
+    {
+      "title": "RCBC Bankard UNLI 0%",
+      "bank": "RCBC Bankard",
+      "description": "Unlimited 0% installment for 3 months on all purchases above ₱3,000",
+      "validUntil": "Dec 31, 2024",
+      "iconData": "credit_card"
+    },
+    {
+      "title": "10% Off on Lazada",
+      "bank": "BPI Credit Cards",
+      "description": "10% discount on Lazada purchases every 10th, min spend ₱3,000, max discount ₱500",
+      "validUntil": "Monthly",
+      "iconData": "shopping_bag"
+    },
+    {
+      "title": "Citi PremierMiles NAFFL",
+      "bank": "Citibank",
+      "description": "No annual fee for life when you spend ₱180,000 within 6 months of card approval",
+      "validUntil": "Limited Time Only",
+      "iconData": "flight"
+    },
+    {
+      "title": "Maya NAFFL Cards",
+      "bank": "Maya Bank",
+      "description": "Get your annual fee waived for life when you spend ₱12,000 within 60 days",
+      "validUntil": "Dec 31, 2024",
+      "iconData": "card_membership"
+    },
+    {
+      "title": "Security Bank 5x Points",
+      "bank": "Security Bank",
+      "description": "Earn 5x rewards points on online shopping & food delivery, min spend ₱3,000",
+      "validUntil": "Dec 31, 2024",
+      "iconData": "shopping_cart"
+    }
+  ],
+  "other_promos": [
+    {
+      "title": "GInvest No Fees",
+      "bank": "GCash",
+      "description": "0% management fees when you invest in any GInvest fund, minimum investment of ₱50",
+      "validUntil": "Ongoing",
+      "iconData": "trending_up"
+    },
+    {
+      "title": "GoTyme Referral",
+      "bank": "GoTyme Bank", 
+      "description": "Get ₱100 for every friend you refer who opens an account and makes a ₱500 deposit",
+      "validUntil": "Dec 31, 2024",
+      "iconData": "group_add"
+    },
+    {
+      "title": "Maya Insurance Cashback",
+      "bank": "Maya",
+      "description": "5% cashback on insurance purchases through Maya, up to ₱500",
+      "validUntil": "Dec 31, 2024",
+      "iconData": "security"
+    },
+    {
+      "title": "UnionBank Gold Referral",
+      "bank": "UnionBank",
+      "description": "Earn ₱500 when your referral opens a savings account with ₱50,000 maintaining balance",
+      "validUntil": "Dec 31, 2024",
+      "iconData": "person_add"
+    },
+    {
+      "title": "Tonik Stash 6% Group Save",
+      "bank": "Tonik Bank",
+      "description": "Create a group savings account and earn up to 6% p.a. interest with friends",
+      "validUntil": "Ongoing",
+      "iconData": "group"
+    }
+  ]
+}
