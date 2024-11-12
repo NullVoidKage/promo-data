@@ -1,0 +1,604 @@
+{
+  "version": "1.0",
+  "lastUpdated": "2024-11-13",
+  "digitalLoans": {
+    "majorDigitalBanks": [
+      {
+        "title": "GLoan",
+        "bank": "GCash",
+        "operator": "Fuse Lending, Inc.",
+        "description": "Quick personal loan up to ₱250,000, payment terms from 12-36 months",
+        "type": "Personal Loan",
+        "validUntil": "Ongoing",
+        "interestRate": "2.5% monthly",
+        "loanRange": {
+          "min": 25000,
+          "max": 250000,
+          "currency": "PHP"
+        },
+        "requirements": [
+          "GCash Account with fully verified status",
+          "GScore of at least 400",
+          "Regular GCash user for at least 6 months",
+          "Valid ID"
+        ],
+        "processingTime": "1-3 banking days",
+        "processingFee": "Up to 5% of loan amount",
+        "website": "gcash.com",
+        "appLinks": {
+          "android": "com.globe.gcash.android",
+          "ios": "id519058182"
+        }
+      },
+      {
+        "title": "GCredit",
+        "bank": "GCash",
+        "operator": "Fuse Lending, Inc.",
+        "description": "Revolving credit line for everyday purchases",
+        "type": "Credit Line",
+        "validUntil": "Ongoing",
+        "interestRate": "2.5% monthly",
+        "loanRange": {
+          "min": 1000,
+          "max": 100000,
+          "currency": "PHP"
+        },
+        "requirements": [
+          "GCash verified account",
+          "GScore of at least 400",
+          "Regular GCash user",
+          "Valid ID"
+        ],
+        "processingTime": "Instant approval",
+        "processingFee": "No processing fee",
+        "website": "gcash.com"
+      },
+      {
+        "title": "Maya Loan",
+        "bank": "Maya",
+        "operator": "PayMaya Philippines",
+        "description": "Personal loan with flexible payment terms",
+        "type": "Personal Loan",
+        "interestRate": "1.99% - 3.5% monthly",
+        "loanRange": {
+          "min": 10000,
+          "max": 200000,
+          "currency": "PHP"
+        },
+        "requirements": [
+          "Maya Savings Account",
+          "Fully verified Maya account",
+          "At least 6 months usage history",
+          "Valid government ID"
+        ],
+        "processingTime": "24 hours",
+        "processingFee": "3-5% of approved amount"
+      },
+      {
+        "title": "SeaBank Cash Loan",
+        "bank": "SeaBank",
+        "description": "Quick cash loan for SeaBank users with good account standing",
+        "type": "Personal Loan",
+        "interestRate": "2% - 3.5% monthly",
+        "loanRange": {
+          "min": 15000,
+          "max": 250000,
+          "currency": "PHP"
+        },
+        "requirements": [
+          "SeaBank account",
+          "Fully verified status",
+          "Regular Shopee user",
+          "Valid ID",
+          "Proof of billing"
+        ],
+        "processingTime": "1-2 banking days",
+        "processingFee": "5% of approved amount"
+      },
+      {
+        "title": "Tonik Quick Loan",
+        "bank": "Tonik",
+        "description": "Digital quick loan with competitive rates",
+        "type": "Personal Loan",
+        "interestRate": "1.5% - 3% monthly",
+        "loanRange": {
+          "min": 5000,
+          "max": 150000,
+          "currency": "PHP"
+        },
+        "requirements": [
+          "Tonik Account",
+          "Philippine citizen",
+          "Age 21-65",
+          "Valid government ID",
+          "Proof of income"
+        ],
+        "processingTime": "24-48 hours",
+        "processingFee": "4% of loan amount"
+      }
+    ],
+    "popularLoanApps": [
+      {
+        "title": "Home Credit",
+        "operator": "HC Consumer Finance Philippines, Inc",
+        "description": "Consumer financing for goods and cash loans",
+        "type": "Multiple Products",
+        "validUntil": "Ongoing",
+        "interestRate": "2.5% - 4% monthly",
+        "loanRange": {
+          "min": 5000,
+          "max": 300000,
+          "currency": "PHP"
+        },
+        "requirements": [
+          "Valid government ID",
+          "Proof of income",
+          "Age 18-68",
+          "Philippine residence",
+          "Proof of billing",
+          "At least 1 mobile number",
+          "Bank account for disbursement"
+        ],
+        "processingTime": "As fast as 1 hour for existing customers",
+        "processingFee": "Varies based on loan amount",
+        "website": "homecredit.ph",
+        "appFeatures": [
+          "Online loan application",
+          "Virtual credit card",
+          "Store installments",
+          "Cash loans",
+          "Bill payments"
+        ]
+      },
+      {
+        "title": "JuanHand",
+        "operator": "Wefund Lending Corp.",
+        "description": "Quick cash loans for Filipinos",
+        "type": "Quick Cash Loan",
+        "validUntil": "Ongoing",
+        "interestRate": "2.8% - 4% monthly",
+        "loanRange": {
+          "min": 1000,
+          "max": 10000,
+          "currency": "PHP"
+        },
+        "requirements": [
+          "Valid government ID",
+          "Age 21-60",
+          "Philippine residence",
+          "Active Facebook account",
+          "Working mobile number",
+          "Bank account"
+        ],
+        "processingTime": "Within 24 hours",
+        "processingFee": "Varies",
+        "appFeatures": [
+          "Quick application",
+          "Multiple payment channels",
+          "Loan tracking",
+          "24/7 customer service"
+        ]
+      },
+      {
+        "title": "Tala",
+        "operator": "Tala Financing Philippines Inc",
+        "description": "Quick cash loans with increasing credit limits",
+        "type": "Quick Cash Loan",
+        "validUntil": "Ongoing",
+        "interestRate": "2.5% - 4.5% monthly (varies by credit score)",
+        "loanRange": {
+          "min": 1000,
+          "max": 15000,
+          "currency": "PHP"
+        },
+        "requirements": [
+          "Valid government ID",
+          "Android phone",
+          "Philippine citizenship",
+          "Active Facebook account",
+          "Bank account or GCash",
+          "Age 18+"
+        ],
+        "processingTime": "Within 24 hours",
+        "processingFee": "No upfront fees",
+        "appFeatures": [
+          "Credit scoring system",
+          "Increasing loan limits",
+          "Multiple disbursement options",
+          "Flexible payment terms"
+        ]
+      },
+      {
+        "title": "Digido",
+        "operator": "Digido Finance Corp.",
+        "description": "Quick online loans with flexible terms",
+        "type": "Quick Cash Loan",
+        "validUntil": "Ongoing",
+        "interestRate": "2.8% - 3.5% monthly",
+        "loanRange": {
+          "min": 2000,
+          "max": 25000,
+          "currency": "PHP"
+        },
+        "requirements": [
+          "Valid government ID",
+          "Philippine citizenship",
+          "Age 21-60",
+          "Active mobile number",
+          "Bank account",
+          "Stable source of income"
+        ],
+        "processingTime": "As fast as 5 minutes",
+        "processingFee": "Varies by loan amount",
+        "appFeatures": [
+          "Fast approval",
+          "Multiple payment options",
+          "Loyalty program",
+          "24/7 support"
+        ]
+      },
+      {
+        "title": "Skyfin",
+        "operator": "Skyro Lending Inc.",
+        "description": "Online quick cash loans",
+        "type": "Quick Cash Loan",
+        "validUntil": "Ongoing",
+        "interestRate": "3% - 4% monthly",
+        "loanRange": {
+          "min": 2000,
+          "max": 20000,
+          "currency": "PHP"
+        },
+        "requirements": [
+          "Valid government ID",
+          "Age 21-55",
+          "Bank account",
+          "Active mobile number",
+          "Proof of income"
+        ],
+        "processingTime": "24 hours",
+        "appFeatures": [
+          "Online application",
+          "Multiple payment channels",
+          "Loan tracking"
+        ]
+      },
+      {
+        "title": "Mocasa",
+        "operator": "Philippine Cashtrout Lending Corporation",
+        "description": "Digital lending platform with quick approval",
+        "type": "Quick Cash Loan",
+        "validUntil": "Ongoing",
+        "interestRate": "2.8% - 3.5% monthly",
+        "loanRange": {
+          "min": 1000,
+          "max": 15000,
+          "currency": "PHP"
+        },
+        "requirements": [
+          "Valid government ID",
+          "Age 20-55",
+          "Philippine residence",
+          "Bank account",
+          "Active mobile number"
+        ],
+        "processingTime": "5-30 minutes",
+        "appFeatures": [
+          "Fast approval",
+          "Multiple disbursement options",
+          "Flexible payment terms"
+        ]
+      },
+      {
+        "title": "Mabilis Cash",
+        "operator": "Mali Lending Corp",
+        "description": "Quick online cash loans",
+        "type": "Quick Cash Loan",
+        "validUntil": "Ongoing",
+        "interestRate": "3% - 4% monthly",
+        "loanRange": {
+          "min": 2000,
+          "max": 20000,
+          "currency": "PHP"
+        },
+        "requirements": [
+          "Valid government ID",
+          "Age 21-60",
+          "Bank account",
+          "Philippine residence"
+        ],
+        "processingTime": "Within 24 hours"
+      },
+      {
+        "title": "Cashalo",
+        "operator": "Paloo Financing, Inc.",
+        "description": "Multiple loan products including shopping loans",
+        "type": "Multiple Products",
+        "validUntil": "Ongoing",
+        "interestRate": "2.95% monthly onwards",
+        "loanRange": {
+          "min": 2000,
+          "max": 50000,
+          "currency": "PHP"
+        },
+        "requirements": [
+          "Valid government ID",
+          "Proof of income",
+          "Philippine citizenship",
+          "Bank account",
+          "Age 18+",
+          "Active mobile number"
+        ],
+        "processingTime": "As fast as 30 minutes",
+        "appFeatures": [
+          "Shopping loans",
+          "Cash loans",
+          "Multiple payment options",
+          "Credit score system"
+        ]
+      },
+      {
+        "title": "MayPera Online",
+        "operator": "Lucky Shell Fintech Lending, Inc.",
+        "description": "Online quick cash loans",
+        "type": "Quick Cash Loan",
+        "validUntil": "Ongoing",
+        "interestRate": "3% - 4% monthly",
+        "loanRange": {
+          "min": 2000,
+          "max": 25000,
+          "currency": "PHP"
+        },
+        "requirements": [
+          "Valid government ID",
+          "Age 21-60",
+          "Bank account",
+          "Active mobile number"
+        ],
+        "processingTime": "Within 24 hours"
+      },
+      {
+        "title": "Peso Redee",
+        "operator": "Peso Redee Financing Co. Inc.",
+        "description": "Digital lending platform",
+        "type": "Quick Cash Loan",
+        "validUntil": "Ongoing",
+        "interestRate": "3% - 4% monthly",
+        "loanRange": {
+          "min": 2000,
+          "max": 20000,
+          "currency": "PHP"
+        },
+        "requirements": [
+          "Valid government ID",
+          "Age 21-55",
+          "Bank account",
+          "Philippine residence"
+        ],
+        "processingTime": "Within 24 hours"
+      },
+      {
+        "title": "Money Cat",
+        "operator": "Moneycat Financing Inc.",
+        "description": "Online quick cash loans",
+        "type": "Quick Cash Loan",
+        "validUntil": "Ongoing",
+        "interestRate": "2.8% - 3.5% monthly",
+        "loanRange": {
+          "min": 1000,
+          "max": 25000,
+          "currency": "PHP"
+        },
+        "requirements": [
+          "Valid government ID",
+          "Age 20-55",
+          "Bank account",
+          "Active mobile number",
+          "Philippine residence"
+        ],
+        "processingTime": "As fast as 30 minutes",
+        "appFeatures": [
+          "Quick approval",
+          "Multiple payment options",
+          "Loan tracking"
+        ]
+      }
+    ],
+    "buyNowPayLater": [
+      {
+        "title": "BillEase",
+        "operator": "First Digital Finance Corporation",
+        "description": "Buy now, pay later service and cash loans",
+        "type": "BNPL & Cash Loan",
+        "validUntil": "Ongoing",
+        "interestRate": "3.5% monthly",
+        "loanRange": {
+          "min": 2000,
+          "max": 30000,
+          "currency": "PHP"
+        },
+        "requirements": [
+          "Valid government ID",
+          "Bank account",
+          "Proof of income",
+          "Philippine residence",
+          "Age 18+"
+        ],
+        "processingTime": "Instant to 24 hours",
+        "appFeatures": [
+          "BNPL services",
+          "Cash loans",
+          "Bill payments",
+          "E-commerce integration"
+        ]
+      },
+      {
+        "title": "Atome",
+        "operator": "Neuroncredit Financing Company Inc.",
+        "description": "Split payments into 3 installments",
+        "type": "BNPL",
+        "interestRate": "0% if paid on time",
+        "processingTime": "Instant approval"
+      },
+      {
+        "title": "TendoPay",
+        "operator": "Temple Tech Finance Corp.",
+        "description": "Buy now, pay later for online and offline purchases",
+        "type": "BNPL"
+      },
+{
+        "title": "Plentina",
+        "operator": "Plentina Lending, Inc.",
+        "description": "BNPL for everyday essentials",
+        "type": "BNPL",
+        "requirements": [
+          "Valid ID",
+          "Active Facebook account",
+          "Philippine residence"
+        ]
+      },
+      {
+        "title": "Akulaku",
+        "operator": "Streetcorner Lending Corp.",
+        "description": "Shopping and BNPL platform",
+        "type": "BNPL",
+        "loanRange": {
+          "min": 1000,
+          "max": 50000,
+          "currency": "PHP"
+        }
+      },
+      {
+        "title": "SPayLater",
+        "operator": "Seamoney (Credit) Finance Phil Inc",
+        "description": "Shopee's BNPL service",
+        "type": "BNPL",
+        "requirements": [
+          "Verified Shopee account",
+          "Valid ID",
+          "Good payment history"
+        ]
+      }
+    ],
+    "traditionalBankDigital": [
+      {
+        "title": "UnionBank Quick Loan",
+        "bank": "UnionBank",
+        "description": "Digital personal loan for UnionBank customers",
+        "type": "Personal Loan",
+        "interestRate": "1.5% - 2.5% monthly",
+        "loanRange": {
+          "min": 10000,
+          "max": 500000,
+          "currency": "PHP"
+        },
+        "processingTime": "3-5 banking days",
+        "processingFee": "3-5% of loan amount"
+      },
+      {
+        "title": "Loan Ranger",
+        "operator": "First Digital Finance Corporation",
+        "description": "Digital lending platform",
+        "type": "Personal Loan",
+        "loanRange": {
+          "min": 5000,
+          "max": 100000,
+          "currency": "PHP"
+        }
+      },
+      {
+        "title": "Radiowealth Finance",
+        "operator": "Radiowealth Finance Company Inc.",
+        "description": "Traditional financing company with digital products",
+        "type": "Multiple Products",
+        "loanRange": {
+          "min": 10000,
+          "max": 1000000,
+          "currency": "PHP"
+        }
+      },
+      {
+        "title": "Uploan",
+        "operator": "New Cross Credit And Financing Gate Ph Inc.",
+        "description": "Salary loans through employer partnerships",
+        "type": "Salary Loan",
+        "loanRange": {
+          "min": 5000,
+          "max": 500000,
+          "currency": "PHP"
+        }
+      }
+    ],
+    "businessLoans": [
+      {
+        "title": "First Circle",
+        "operator": "First Circle Growth Finance Corp",
+        "description": "Business financing solutions",
+        "type": "Business Loan",
+        "loanRange": {
+          "min": 100000,
+          "max": 5000000,
+          "currency": "PHP"
+        }
+      }
+    ],
+    "commonFeatures": {
+      "requiredDocuments": [
+        "Valid government-issued ID",
+        "Active mobile number",
+        "Bank account",
+        "Proof of residence"
+      ],
+      "generalRequirements": [
+        "Filipino citizenship",
+        "Legal age (usually 18-21 minimum)",
+        "Source of income",
+        "No active default on other loans"
+      ],
+      "paymentChannels": [
+        "Online banking",
+        "E-wallets (GCash, Maya)",
+        "Over-the-counter banks",
+        "Payment centers"
+      ]
+    }
+  },
+  "categories": [
+    {
+      "title": "Personal Loans",
+      "description": "General purpose loans with flexible terms",
+      "types": [
+        "Cash loans",
+        "Salary loans",
+        "Multi-purpose loans"
+      ]
+    },
+    {
+      "title": "Credit Lines",
+      "description": "Revolving credit facilities for regular use",
+      "types": [
+        "Digital credit lines",
+        "Shopping credit",
+        "Cash credit"
+      ]
+    },
+    {
+      "title": "Buy Now Pay Later",
+      "description": "Short-term financing for purchases",
+      "types": [
+        "E-commerce BNPL",
+        "Retail BNPL",
+        "Service BNPL"
+      ]
+    },
+    {
+      "title": "Business Loans",
+      "description": "Financing solutions for businesses",
+      "types": [
+        "Working capital",
+        "Purchase order financing",
+        "Invoice financing"
+      ]
+    }
+  ]
+}
