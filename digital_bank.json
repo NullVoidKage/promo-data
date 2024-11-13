@@ -1,0 +1,146 @@
+{
+  "digitalBanks": [
+    {
+      "name": "CIMB Bank",
+      "interestRate": "6.5%",
+      "features": [
+        "Up to 6.5% p.a. interest rate",
+        "3-month: 5.75% p.a.",
+        "6-month: 6.00% p.a.",
+        "12-month: 6.25% p.a.",
+        "24-month: 6.50% p.a.",
+        "PDIC Insured"
+      ],
+      "score": 4.8,
+      "currentBalance": 250000,
+      "earnedInterest": 62500,
+      "imageUrl": "assets/images/cimb.png"
+    },
+    {
+      "name": "GOtyme",
+      "interestRate": "5.0%",
+      "features": [
+        "4% p.a. on Go Save account",
+        "5% p.a. on USD Time Deposit",
+        "Free Visa Debit Card",
+        "No Maintaining Balance"
+      ],
+      "score": 4.7,
+      "currentBalance": 180000,
+      "earnedInterest": 9000,
+      "imageUrl": "assets/images/gotyme.png"
+    },
+    {
+      "name": "Maya Bank",
+      "interestRate": "15.0%",
+      "features": [
+        "Up to 15% p.a. on savings accounts",
+        "Personal Goals feature",
+        "Digital Payments Integration",
+        "Maya Card Available"
+      ],
+      "score": 4.6,
+      "currentBalance": 150000,
+      "earnedInterest": 22500,
+      "imageUrl": "assets/images/maya.png"
+    },
+    {
+      "name": "Netbank",
+      "interestRate": "7.0%",
+      "features": [
+        "4% on basic deposit accounts",
+        "7% on time deposit accounts",
+        "No Maintaining Balance",
+        "Free Fund Transfers"
+      ],
+      "score": 4.5,
+      "currentBalance": 120000,
+      "earnedInterest": 8400,
+      "imageUrl": "assets/images/netbank.png"
+    },
+    {
+      "name": "Ownbank",
+      "interestRate": "8.0%",
+      "features": [
+        "Up to 6% p.a. on savings",
+        "Up to 7.5% on time deposit",
+        "8% on time deposit (first 7 days)",
+        "Multiple Account Types"
+      ],
+      "score": 4.5,
+      "currentBalance": 200000,
+      "earnedInterest": 16000,
+      "imageUrl": "assets/images/ownbank.png"
+    },
+    {
+      "name": "RCBC Diskartech",
+      "interestRate": "4.88%",
+      "features": [
+        "Fixed 4.88% interest rate",
+        "RCBC Partnership",
+        "Capped at 50k Balance",
+        "Basic Savings Account"
+      ],
+      "score": 4.4,
+      "currentBalance": 49700,
+      "earnedInterest": 2425.36,
+      "imageUrl": "assets/images/diskartech.png"
+    },
+    {
+      "name": "Seabank",
+      "interestRate": "4.25%",
+      "features": [
+        "Up to 4.25% interest rate",
+        "Shopee Integration",
+        "No Maintaining Balance",
+        "Capped at 400k Balance"
+      ],
+      "score": 4.3,
+      "currentBalance": 200000,
+      "earnedInterest": 8500,
+      "imageUrl": "assets/images/seabank.png"
+    },
+    {
+      "name": "Tonik Bank",
+      "interestRate": "6.0%",
+      "features": [
+        "1% on regular account",
+        "Up to 6% on time deposit",
+        "Time Deposit Options",
+        "Stash Savings Feature"
+      ],
+      "score": 4.2,
+      "currentBalance": 150000,
+      "earnedInterest": 9000,
+      "imageUrl": "assets/images/tonik.png"
+    },
+    {
+      "name": "UNObank",
+      "interestRate": "6.0%",
+      "features": [
+        "Up to 4.25% on UNOReady account",
+        "Up to 6% on time deposit",
+        "No Maintaining Balance",
+        "Digital-First Banking"
+      ],
+      "score": 4.1,
+      "currentBalance": 100000,
+      "earnedInterest": 6000,
+      "imageUrl": "assets/images/unobank.png"
+    },
+    {
+      "name": "UnionDigital",
+      "interestRate": "6.0%",
+      "features": [
+        "Up to 4% on savings",
+        "Up to 6% on time deposit",
+        "UnionBank Integration",
+        "Free Fund Transfers"
+      ],
+      "score": 4.0,
+      "currentBalance": 100000,
+      "earnedInterest": 6000,
+      "imageUrl": "assets/images/uniondigital.png"
+    }
+  ]
+}
