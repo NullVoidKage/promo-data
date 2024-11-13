@@ -96,6 +96,163 @@
     ],
     "popularLoanApps": [
       {
+        "title": "BPI Tryke",
+        "operator": "Bank of the Philippine Islands",
+        "description": "Trusted digital lending platform backed by BPI, offering substantial loans with flexible terms",
+        "type": "Personal Loan",
+        "validUntil": "Ongoing",
+        "interestRate": "2% - 3.5% monthly",
+        "loanRange": {
+          "min": 10000,
+          "max": 250000,
+          "currency": "PHP"
+        },
+        "requirements": [
+          "Valid government ID",
+          "Proof of income",
+          "Philippine citizenship",
+          "Bank account",
+          "Age 21-65",
+          "Proof of billing"
+        ],
+        "processingTime": "3-5 banking days",
+        "processingFee": "Processing fee varies",
+        "term": {
+          "min": 6,
+          "max": 24,
+          "unit": "months"
+        }
+      },
+      {
+        "title": "Soscredit",
+        "operator": "Soscredit Philippines",
+        "description": "User-friendly digital lending platform with swift application process",
+        "type": "Personal Loan",
+        "validUntil": "Ongoing",
+        "interestRate": "2.5% - 4% monthly",
+        "loanRange": {
+          "min": 5000,
+          "max": 100000,
+          "currency": "PHP"
+        },
+        "requirements": [
+          "Valid government ID",
+          "Active mobile number",
+          "Bank account",
+          "Proof of income",
+          "Philippine residence"
+        ],
+        "processingTime": "24-48 hours",
+        "term": {
+          "min": 3,
+          "max": 36,
+          "unit": "months"
+        }
+      },
+      {
+        "title": "Lendr",
+        "operator": "Lendr Financial Services",
+        "description": "Streamlined digital lending platform focusing on seamless transactions",
+        "type": "Personal Loan",
+        "validUntil": "Ongoing",
+        "interestRate": "2% - 3% monthly",
+        "loanRange": {
+          "min": 8000,
+          "max": 80000,
+          "currency": "PHP"
+        },
+        "requirements": [
+          "Valid ID",
+          "Proof of income",
+          "Bank account",
+          "Philippine citizenship",
+          "Age 21+"
+        ],
+        "processingTime": "1-2 banking days",
+        "term": {
+          "min": 3,
+          "max": 24,
+          "unit": "months"
+        }
+      },
+      {
+        "title": "PeraEasy",
+        "operator": "PeraEasy Financial Services",
+        "description": "Versatile lending platform serving individuals and small businesses",
+        "type": "Multiple Products",
+        "validUntil": "Ongoing",
+        "interestRate": "2.5% - 4.5% monthly",
+        "loanRange": {
+          "min": 2000,
+          "max": 50000,
+          "currency": "PHP"
+        },
+        "requirements": [
+          "Valid government ID",
+          "Proof of income or business",
+          "Bank account",
+          "Active mobile number"
+        ],
+        "processingTime": "24-72 hours",
+        "term": {
+          "min": 1,
+          "max": 24,
+          "unit": "months"
+        }
+      },
+      {
+        "title": "Digido Philippines",
+        "operator": "Digido Financial Services",
+        "description": "Comprehensive loan comparison and facilitation platform",
+        "type": "Multiple Products",
+        "validUntil": "Ongoing",
+        "interestRate": "1.99% - 4% monthly",
+        "loanRange": {
+          "min": 1000,
+          "max": 1000000,
+          "currency": "PHP"
+        },
+        "requirements": [
+          "Valid government ID",
+          "Proof of income",
+          "Bank account",
+          "Philippine residence",
+          "Age 21-65"
+        ],
+        "processingTime": "1-5 banking days",
+        "term": {
+          "min": 3,
+          "max": 36,
+          "unit": "months"
+        }
+      },
+      {
+        "title": "Robocash Philippines",
+        "operator": "Robocash Financial Corporation",
+        "description": "Specialized lending platform for salaried professionals",
+        "type": "Salary Loan",
+        "validUntil": "Ongoing",
+        "interestRate": "2.5% - 3.5% monthly",
+        "loanRange": {
+          "min": 10000,
+          "max": 100000,
+          "currency": "PHP"
+        },
+        "requirements": [
+          "Valid government ID",
+          "Proof of employment",
+          "Latest payslip",
+          "Bank account",
+          "Age 21+"
+        ],
+        "processingTime": "24-48 hours",
+        "term": {
+          "min": 3,
+          "max": 12,
+          "unit": "months"
+        }
+      },
+      {
         "title": "Home Credit",
         "operator": "HC Consumer Finance Philippines, Inc",
         "description": "Consumer financing for goods and cash loans",
@@ -154,6 +311,86 @@
           "Multiple payment options",
           "Credit score system"
         ]
+      },
+      {
+        "title": "Tala",
+        "operator": "Tala Mobile Philippines",
+        "description": "Accessible digital lending platform with growth options",
+        "type": "Personal Loan",
+        "validUntil": "Ongoing",
+        "interestRate": "2.5% - 4% monthly",
+        "loanRange": {
+          "min": 1000,
+          "max": 30000,
+          "currency": "PHP"
+        },
+        "requirements": [
+          "Valid ID",
+          "Active Facebook account",
+          "Android smartphone",
+          "Philippine residence"
+        ],
+        "processingTime": "Within 24 hours",
+        "features": [
+          "Grow with Tala program",
+          "Quick approval",
+          "Multiple payment options"
+        ],
+        "term": {
+          "min": 1,
+          "max": 12,
+          "unit": "months"
+        }
+      },
+      {
+        "title": "Atome Philippines",
+        "operator": "Atome Financial Services",
+        "description": "BNPL service provider with extended loan options",
+        "type": "BNPL & Personal Loan",
+        "validUntil": "Ongoing",
+        "interestRate": "2% - 3.5% monthly",
+        "loanRange": {
+          "min": 3000,
+          "max": 40000,
+          "currency": "PHP"
+        },
+        "requirements": [
+          "Valid government ID",
+          "Proof of income",
+          "Bank account",
+          "Philippine residence"
+        ],
+        "processingTime": "Instant to 24 hours",
+        "term": {
+          "min": 1,
+          "max": 12,
+          "unit": "months"
+        }
+      },
+      {
+        "title": "Tengo Financial Services",
+        "operator": "Tengo Philippines Inc.",
+        "description": "Accessible digital lending platform with flexible options",
+        "type": "Personal Loan",
+        "validUntil": "Ongoing",
+        "interestRate": "2.5% - 4% monthly",
+        "loanRange": {
+          "min": 3000,
+          "max": 25000,
+          "currency": "PHP"
+        },
+        "requirements": [
+          "Valid government ID",
+          "Active mobile number",
+          "Bank account",
+          "Philippine residence"
+        ],
+        "processingTime": "24-48 hours",
+        "term": {
+          "min": 3,
+          "max": 12,
+          "unit": "months"
+        }
       }
     ],
     "buyNowPayLater": [
@@ -235,7 +472,7 @@
       "paymentChannels": [
         "Online banking",
         "E-wallets (GCash, Maya)",
-        "Over-the-counter banks",
+        ""Over-the-counter banks",
         "Payment centers"
       ]
     }
